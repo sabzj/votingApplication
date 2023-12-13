@@ -1,0 +1,14 @@
+.voting-page {
+  margin-top: 17vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+
+  gap: 1.3em;
+
+  flex-wrap: wrap;
+
+  padding: 5px;
+  padding-bottom: 5vh;
+}
